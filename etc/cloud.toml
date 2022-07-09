@@ -13,6 +13,6 @@ database="cloud_station"
 
 [log]
 level="debug"
-dir="logs"
 format="text"
 to="stdout"
+path_dir="logs"
